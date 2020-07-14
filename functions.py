@@ -14,6 +14,9 @@ from datetime import date
 from time import sleep as s
 from datetime import datetime
 
+# file i/o
+import csv
+
 def writeBaltimorePopulation():
     """
     Table info:
@@ -171,4 +174,37 @@ def writePhoenixPopulation():
 
     dataOut.to_csv(file1, encoding='UTF-8', index=False)
 
-writePhoenixPopulation()
+
+def writeCords():
+    path = 'E:\\LEARN\\Coursera_Capstone_IBM\\DATA\\'
+    file1 = path + 'lat_long.csv'
+    header = ['City', 'Latitude', 'Longitude']
+    baltimore = ['Baltimore', 39.283333, -76.616667]
+    baltimoreCounty = ['Baltimore County', 39.4, -76.6]
+    richmondCity = ['Richmond', 37.533333, -77.466667] # located in Henrico County
+    henricoCounty = ['Henrico County', 37.55, -77.4]
+    phoenix = ['Phoenix', 33.45, -112.066667] # located in Maricopa County
+    maricopaCounty = ['Maricopa County', 33.513889, -112.475833]
+    houston = ['Houston', 29.762778, -95.383056] # located in Harris County
+    harrisCounty = ['Harris County', 29.86, -95.39]
+
+    # all of above combined
+    comb = [
+        ['City', 'Latitude', 'Longitude'],
+        ['Baltimore', 39.283333, -76.616667],
+        ['Baltimore County', 39.4, -76.6],
+        ['Richmond', 37.533333, -77.466667],
+        ['Henrico County', 37.55, -77.4],
+        ['Phoenix', 33.45, -112.066667],
+        ['Maricopa County', 33.513889, -112.475833],
+        ['Houston', 29.762778, -95.383056],
+        ['Harris County', 29.86, -95.39]
+    ]
+
+    with open(file1, "w", newline="") as f1:
+        cw = csv.writer(f1)
+        for c in comb:
+            cw.writerow(c)
+    f1.close()
+
+writeCords()
