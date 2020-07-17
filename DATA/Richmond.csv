@@ -1,4 +1,4 @@
-,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value
+id,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value
 0,Kuba Kuba,Cuban Restaurant,23220,37.55131852614816,-77.45886792846566,2,OPERATIONAL,35545,7400.0,16609,15146,1463,233800
 1,Rostov's Coffee & Tea,Coffee Shop,23220,37.54788970403887,-77.46164931090519,1,OPERATIONAL,35545,7400.0,16609,15146,1463,233800
 2,Heritage,American Restaurant,23220,37.547735,-77.462098,3,OPERATIONAL,35545,7400.0,16609,15146,1463,233800
