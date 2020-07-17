@@ -1,4 +1,4 @@
-,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value,Color
+id,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value,Color
 0,Nando's,Portuguese Restaurant,21201,39.28928879085496,-76.62197651994114,2,OPERATIONAL,16972,13158.0,11255,9765,1490,208500,Blue sapphire
 1,Cafe on the Square,Sandwich Place,21201,39.28888934306094,-76.62222604360021,1,OPERATIONAL,16972,13158.0,11255,9765,1490,208500,Amazon
 2,Faidley's Seafood,Fish Market,21201,39.29183748369686,-76.62230945184888,2,OPERATIONAL,16972,13158.0,11255,9765,1490,208500,Aero

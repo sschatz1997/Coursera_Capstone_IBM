@@ -1,4 +1,4 @@
-,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value,Color
+id,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value,Color
 0,State 48 Brewery,Brewery,85003,33.451178305353764,-112.07882043150451,2,OPERATIONAL,9369,5061.0,4910,3900,1010,260500,Battleship grey
 1,Harumi Sushi,Sushi Restaurant,85003,33.44978473007905,-112.07527611921829,2,OPERATIONAL,9369,5061.0,4910,3900,1010,260500,Bright maroon
 2,The Kettle Black,Pub,85004,33.448468259967434,-112.0724513994473,2,OPERATIONAL,4965,2434.0,2804,2195,609,205200,British racing green

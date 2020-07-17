@@ -1,4 +1,4 @@
-,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value,Color
+id,Venue,Venue Category,Zip,Venue Latitude,Venue Longitude,Price Point,Business Status,Population,Population Density,Total Housing Units,Occupied Housing Units,Avaliable Housing Units,Median Home Value,Color
 0,Louisiana Famous Fried Chicken,Fried Chicken Joint,77002,29.748251,-95.370186,1,OPERATIONAL,16793.0,8320.0,3757.0,3080.0,677.0,208600.0,Almond
 1,Your Pie,Pizza Place,77002,29.75177,-95.3686,1,OPERATIONAL,16793.0,8320.0,3757.0,3080.0,677.0,208600.0,Brown sugar
 2,Pappas Bar-B-Q,BBQ Joint,77002,29.7482711,-95.3685065,2,OPERATIONAL,16793.0,8320.0,3757.0,3080.0,677.0,208600.0,Android green
