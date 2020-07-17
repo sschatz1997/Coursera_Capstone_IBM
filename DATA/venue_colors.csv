@@ -1,68 +1,68 @@
-,Venue,Color
-0,['Afghan Restaurant'],Acid green
-1,['American Restaurant'],Bittersweet
-2,['Asian Restaurant'],Baby blue eyes
-3,['BBQ Joint'],Black bean
-4,['Bagel Shop'],Bitter lime
-5,['Bakery'],Alice blue
-6,['Bar'],Bistre
-7,['Beer Bar'],Antique fuchsia
-8,['Breakfast Spot'],African violet
-9,['Brewery'],Arctic lime
-10,['Bubble Tea Shop'],Amaranth pink
-11,['Burger Joint'],Antique white
-12,['Café'],Beige
-13,['Cajun / Creole Restaurant'],Battleship grey
-14,['Chinese Restaurant'],Apricot
-15,['Cocktail Bar'],Air superiority blue
-16,['Coffee Shop'],Barbie Pink
-17,['College Cafeteria'],Big dip oâruby
-18,['Creperie'],Baby blue
-19,['Cuban Restaurant'],Beige
-20,['Cupcake Shop'],Bittersweet shimmer
-21,['Deli / Bodega'],Black chocolate
-22,['Dive Bar'],Antique white
-23,['Doner Restaurant'],Baby blue eyes
-24,['Donut Shop'],Aqua
-25,['Ethiopian Restaurant'],Bitter lemon
-26,['Farmers Market'],Baby powder
-27,['Fast Food Restaurant'],Bittersweet shimmer
-28,['Fish Market'],Amaranth
-29,['Food'],Asparagus
-30,['Food & Drink Shop'],Almond
-31,['Food Truck'],Barbie Pink
-32,['French Restaurant'],Army green
-33,['Fried Chicken Joint'],Arylide yellow
-34,['Gastropub'],Amber (SAE/ECE)
-35,['Greek Restaurant'],Absolute Zero
-36,['Hot Dog Joint'],Bistre
-37,['Hotel Bar'],Bistre
-38,['Ice Cream Shop'],Beaver
-39,['Indian Restaurant'],Aqua
-40,['Irish Pub'],Aqua
-41,['Italian Restaurant'],Air superiority blue
-42,['Japanese Restaurant'],Ash gray
-43,['Juice Bar'],Avocado
-44,['Mediterranean Restaurant'],Army green
-45,['Mexican Restaurant'],Alice blue
-46,['New American Restaurant'],Amazon
-47,['Noodle House'],Auburn
-48,['Peruvian Restaurant'],Army green
-49,['Pizza Place'],Antique fuchsia
-50,['Portuguese Restaurant'],Acid green
-51,['Pub'],Baker-Miller pink
-52,['Restaurant'],Amber
-53,['Salvadoran Restaurant'],Antique white
-54,['Sandwich Place'],Baby blue eyes
-55,['Seafood Restaurant'],Artichoke
-56,['Southern / Soul Food Restaurant'],Bitter lemon
-57,['Speakeasy'],Banana Mania
-58,['Steakhouse'],Banana Mania
-59,['Sushi Restaurant'],Amazon
-60,['Taco Place'],Baby blue eyes
-61,['Tex-Mex Restaurant'],Aero
-62,['Thai Restaurant'],Bisque
-63,['Theme Restaurant'],Baby powder
-64,['Vegetarian / Vegan Restaurant'],Azure (X11/web color)
-65,['Vietnamese Restaurant'],Bitter lime
-66,['Wine Bar'],Android green
+id,Venue,Color
+0,Afghan Restaurant,Aero
+1,American Restaurant,Atomic tangerine
+2,Asian Restaurant,Battleship grey
+3,BBQ Joint,Antique ruby
+4,Bagel Shop,Azure
+5,Bakery,Amaranth
+6,Bar,Aero blue
+7,Beer Bar,Barn red
+8,Breakfast Spot,Amethyst
+9,Brewery,Ash gray
+10,Bubble Tea Shop,Battleship grey
+11,Burger Joint,Amaranth (M&P)
+12,Café,Azure
+13,Cajun / Creole Restaurant,Amaranth purple
+14,Chinese Restaurant,Azure
+15,Cocktail Bar,Ao (English)
+16,Coffee Shop,Ash gray
+17,College Cafeteria,Almond
+18,Creperie,Black bean
+19,Cuban Restaurant,Alice blue
+20,Cupcake Shop,Arylide yellow
+21,Deli / Bodega,Bitter lemon
+22,Dive Bar,Azure
+23,Doner Restaurant,Apple green
+24,Donut Shop,Amaranth purple
+25,Ethiopian Restaurant,Acid green
+26,Farmers Market,Black
+27,Fast Food Restaurant,B'dazzled blue
+28,Fish Market,Amaranth pink
+29,Food,Beaver
+30,Food & Drink Shop,Baby pink
+31,Food Truck,Absolute Zero
+32,French Restaurant,Amber (SAE/ECE)
+33,Fried Chicken Joint,Asparagus
+34,Gastropub,Antique ruby
+35,Greek Restaurant,Baker-Miller pink
+36,Hot Dog Joint,Baby blue
+37,Hotel Bar,Beige
+38,Ice Cream Shop,Amaranth (M&P)
+39,Indian Restaurant,Antique brass
+40,Irish Pub,Bittersweet shimmer
+41,Italian Restaurant,Alice blue
+42,Japanese Restaurant,African violet
+43,Juice Bar,Battleship grey
+44,Mediterranean Restaurant,Amazon
+45,Mexican Restaurant,Alloy orange
+46,New American Restaurant,Barbie Pink
+47,Noodle House,Almond
+48,Peruvian Restaurant,B'dazzled blue
+49,Pizza Place,Azure (X11/web color)
+50,Portuguese Restaurant,Auburn
+51,Pub,Antique bronze
+52,Restaurant,Absolute Zero
+53,Salvadoran Restaurant,Amaranth
+54,Sandwich Place,Barn red
+55,Seafood Restaurant,Amazon
+56,Southern / Soul Food Restaurant,Ao (English)
+57,Speakeasy,Bistre brown
+58,Steakhouse,Bittersweet
+59,Sushi Restaurant,Black
+60,Taco Place,Almond
+61,Tex-Mex Restaurant,Baker-Miller pink
+62,Thai Restaurant,Aero
+63,Theme Restaurant,Antique brass
+64,Vegetarian / Vegan Restaurant,Atomic tangerine
+65,Vietnamese Restaurant,Ash gray
+66,Wine Bar,Aero
