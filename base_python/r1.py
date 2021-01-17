@@ -15,7 +15,7 @@ res = [
     ['Bubble Tea Shop', 0],
     ['Burger Joint', 0],
     ['Café', 0],
-    ['Cajun / Creole Restaurant', 0],,
+    ['Cajun / Creole Restaurant', 0],
     ['Chinese Restaurant', 0],
     ['Cocktail Bar', 0],
     ['Coffee Shop', 0],
