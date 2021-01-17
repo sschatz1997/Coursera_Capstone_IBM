@@ -36,8 +36,9 @@ All of this data will go back a certain time to account for today’s global
 pandemic and to gather more data to have a better model view for
 training and other data models.
 
-
-
+# Results
+Click [here](https://github.com/sschatz1997/Coursera_Capstone_IBM/blob/master/reports/Report.pdf) to view the report! \
+Click [here](https://github.com/sschatz1997/Coursera_Capstone_IBM/blob/master/jupyter-notebook/finalDone.ipynb) to see the Jupyter Notebook!
 
 
 # Sources:
